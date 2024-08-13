@@ -15,5 +15,7 @@
 homepage: "https://www.madewithintent.ai"
 documentation: "https://madewithintent.notion.site/Made-with-Intent-GTM-Template-Implementation-65d14efde9ff44acb3ad1276e7660326"
 versions:
+  - sha: c58e4a52f08c35e26085a506f50c1fef086c69fc
+    changeNotes: Create empty dataLayer
   - sha: 3579f27d88e5771c1860231b2491eb87ccf11ad8
     changeNotes: Initial release.
